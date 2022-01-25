@@ -6,5 +6,5 @@ image: "images/team/hubo-cai.jpg"
 jobtitle: "Past Chair"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 2
+weight: 5
 ---
