@@ -9,7 +9,7 @@ Here we will provide links to docuemnts that pertain to the governance and/or ex
 
 Under construction...
 
-## Others 
+## Meeting Minutes 
 
-Under construction...
+Meeting minutes for the monthly officer meetings can be found [here](documents/minutes).
 
