@@ -1,7 +1,6 @@
 ﻿Position Code,First Name,Middle Name,Last Name,Name Credentials
-CHAIR,Hubo,,Cai,"P.E., M.ASCE"
-Vice-Chair,Mario,Ernesto,Berges,"Ph.D., A.M.ASCE"
-Member-At-Large,Changbum,,Ahn,"Ph.D., EI, A.M.ASCE"
+Chair,Mario,Ernesto,Berges,"Ph.D., A.M.ASCE"
+Secretary,Changbum,Ryan,Ahn,"Ph.D., EI, A.M.ASCE"
 Member,Ragip,,Akbas,Ph.D.
 Member,Reza,,Akhavian,A.M.ASCE
 Member,Chinemelu,Jidenka,Anumba,"P.E., F.ASCE"
@@ -11,9 +10,10 @@ Member,Burcin,,Becerik-Gerber,A.M.ASCE
 Member,Amir,Hossein,Behzadan,"Ph.D., M.ASCE"
 Member,Alfred,Christopher,Bogen,Ph.D.
 Member,Tanyel,T,Bulbul,Ph.D.
+Past-Chair,Hubo,,Cai,"P.E., M.ASCE"
 Member,Carlos,H,Caldas,"Ph.D., P.E., M.ASCE"
 Member,Albert T-F,,Chen,
-Member,Dong,,Chen,
+Member-at-Large,Dong,,Chen,
 Member,Don,,Chen,
 Member,Yunfeng,,Chen,Ph.D.
 Member,Yuting,,Chen,Ph.D.
@@ -98,7 +98,7 @@ Member,Yujie,,Ying,Ph.D.
 Member,Hae-Bum,,Yun,Ph.D.
 Member,lu,,zhang,
 Member,Ruichuan,,Zhang,"Ph.D., S.M.ASCE"
-Secretary,Jiansong,,Zhang,"Ph.D., A.M.ASCE"
+Vice-Chair,Jiansong,,Zhang,"Ph.D., A.M.ASCE"
 Member,Yimin,,Zhu,Ph.D.
 Member,Zhenhua,,Zhu,"Ph.D., A.M.ASCE"
 ASCE Staff Contact,James,M,Neckel,Aff.M.ASCE
