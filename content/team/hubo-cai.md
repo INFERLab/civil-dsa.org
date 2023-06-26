@@ -5,6 +5,6 @@ draft: false
 image: "images/team/hubo-cai.jpg"
 jobtitle: "Past Chair"
 linkedinurl: "https://www.linkedin.com/"
-promoted: true
+promoted: false 
 weight: 5
 ---

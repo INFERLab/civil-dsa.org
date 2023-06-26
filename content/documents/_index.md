@@ -7,5 +7,7 @@ Here we will provide links to docuemnts that pertain to the governance and/or ex
 
 ## Bylaws and associated documents 
 
-Under construction...
+Our bylaws were ratified and voted into effect in September of 2021 during that year's annual meeting. They are availble here:
+
+[ASCE DSA Bylaws](/docs/ASCE-DSA-bylaws-08312021.pdf)
 

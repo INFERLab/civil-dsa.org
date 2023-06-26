@@ -9,21 +9,6 @@ Here we will announce relevant events and news items with the community.
 
 Here are some of the upcoming events we know of:
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-And others...
-
-## News items 
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+1. [ASCE i3CE 2023](https://www.i3ce2023.org)
+2. [ASCE i3CE 2024](https://www.cmu.edu/cee/i3ce2024/)
 
